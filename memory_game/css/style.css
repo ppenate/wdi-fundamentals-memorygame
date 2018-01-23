@@ -4,11 +4,13 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #F15B31;
+	color: #FFFFFF;
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 18px;
 	margin: 0 20px;
+	font-family: Raleway;
+	text-transform: uppercase;
 }
 header {
 	background-color: #F15B31;
@@ -17,7 +19,8 @@ header {
 }
 h1 {
 	font-family: Raleway;
-	color: #0D2C40;
+	text-transform: uppercase;
+	color: #FFFFFF;
 	letter-spacing: 1px;
 	font-weight: 400;
 	font-size: 45px;
@@ -42,6 +45,7 @@ main {
 }
 h2 {
 	font-family: Raleway;
+	text-transform: uppercase;
 	color: #0D2C40;
 	letter-spacing: 1px;
 	font-weight: 600;
@@ -57,7 +61,7 @@ img {
 }
 footer {
 	text-transform: uppercase;
-	padding: 0 20px;
+	padding: 20px;
 	background-color: #0D2C40;
 	color: white;
 	font-size: 14px;
